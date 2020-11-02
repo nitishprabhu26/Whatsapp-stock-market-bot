@@ -1,4 +1,4 @@
-"# Whatsapp-stock-market-bot" 
+# Whatsapp-stock-market-bot
 
 “A working WhatsApp chatbot which takes the name of a stock as an input and brings the current price of the stock”
 
